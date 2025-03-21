@@ -26,7 +26,7 @@ Ensure you have Python 3.x installed on your system.
 
 🔹 Clone the Repository
 
-$ git clone https://github.com/your-username/personal-library-manager.git
+$ git clone https://github.com/KashifHanif628/Personal-LIbrary-Manager-Kashif-Hanif/tree/main
 
 $ cd personal-library-manager
 
